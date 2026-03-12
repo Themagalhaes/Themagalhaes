@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Daniel Magalhães! 👋
 
-<!--
-**Themagalhaes/Themagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Suporte em transição para o **Desenvolvimento Back-end**. Atualmente focado em dominar a lógica de programação e o ecossistema **Java**.
 
-Here are some ideas to get you started:
+### 🚀 Sobre Mim
+- 🎓 Graduado em **Gestão de TI**.
+- 🛠️ Experiência prática no **Suporte Técnico**, onde aprendi a ter resiliência e foco na solução de problemas.
+- 💻 No momento, em um **reset total de carreira**, reaprendendo do zero com foco em Back-end (HTML/CSS e Java).
+- 📍 Baseado em Goiânia - GO.
+- 🎮 Entusiasta de tecnologia e apaixonado por games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ No que estou trabalhando agora:
+- 🌐 [Meu Portfólio Pessoal]([Meu Portfólio Pessoal],[(https://beamish-tanuki-f11a21.netlify.app/)]
+- ☕ Estudando fundamentos de lógica e sintaxe Java.
+
+---
+*Busco minha primeira oportunidade como **Trainee ou Júnior** para aplicar minha experiência de suporte no desenvolvimento de soluções reais.*
+
+"O segredo da força é o treino diário." 👊💥
