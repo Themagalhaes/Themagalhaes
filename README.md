@@ -6,7 +6,7 @@ Analista de Suporte em transição para o **Desenvolvimento Back-end**. Atualmen
 - 🎓 Graduado em **Gestão de TI**.
 - 🛠️ Experiência prática no **Suporte Técnico**, onde aprendi a ter resiliência e foco na solução de problemas.
 - 💻 No momento, em um **reset total de carreira**, reaprendendo do zero com foco em Back-end (HTML/CSS e Java).
-- 📍 Baseado em Goiânia - GO.
+- 📍  Goiânia - GO.
 - 🎮 Entusiasta de tecnologia e apaixonado por games.
 
 ### 🛠️ No que estou trabalhando agora:
