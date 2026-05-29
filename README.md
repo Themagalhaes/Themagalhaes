@@ -1,16 +1,36 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil! 
 
-<!--
-**Themagalhaes/Themagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Daniel Magalhães! 👋
 
-Here are some ideas to get you started:
+Analista de Suporte Técnico em transição de carreira para o **Desenvolvimento Front-end**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Sobre Mim
+
+-  Graduado em **Gestão de TI**.
+-  **+3 anos de experiência em Suporte Técnico (N1/N2)** e automação comercial.
+-  Focado em dominar o ecossistema **Front-end**.
+-  Goiânia - GO.
+
+##  Tecnologias e Ferramentas
+
+### Desenvolvimento Web
+[HTML5]
+[CSS3]
+[JavaScript]
+[Git]
+
+### Produtividade & IA
+[ChatGPT]
+[VS Code]
+[Gemini]
+
+### Infraestrutura & Suporte
+- **Acesso Remoto e Chamados:** AnyDesk | TeamViewer | Jira Service Desk
+- **Sistemas Fiscais:** Emissores de NFe | Contingências SEFAZ | Certificados Digitais e Tokens
+
+##  No que estou trabalhando agora:
+
+-  Páginas web responsivas e interativas.
+-  Manipulação do DOM e consumo de APIs com JavaScript e suporte de IA.
+
+*Buscando oportunidade como Desenvolvedor Front-end Júnior ou Trainee.*
