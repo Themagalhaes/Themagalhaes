@@ -2,7 +2,6 @@
 
 Eu sou o Daniel Magalhães! 👋
 
-Analista de Suporte Técnico em transição de carreira para o **Desenvolvimento Front-end**.
 
 ##  Sobre Mim
 
@@ -32,5 +31,3 @@ Analista de Suporte Técnico em transição de carreira para o **Desenvolvimento
 
 -  Páginas web responsivas e interativas.
 -  Manipulação do DOM e consumo de APIs com JavaScript e suporte de IA.
-
-*Buscando oportunidade como Desenvolvedor Front-end Júnior ou Trainee.*
